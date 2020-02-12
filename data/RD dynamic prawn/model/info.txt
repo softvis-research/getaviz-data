@@ -1,0 +1,10 @@
+author: Jan Schillbach
+type: x3dom
+system: Prawn
+supply source: ""
+programming language: Java
+commit_id: "f3aa0f5"
+metaphor: rd
+aspect: behaviour
+variant: dynamic
+version: 2017-10-17
