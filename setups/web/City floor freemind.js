@@ -86,12 +86,13 @@
             targetEndAtBorder: true,
             createEndpoints: false
         },
-        {
-            name: "relationTransparencyController",
-        },
 
         {
-            name: "relationHighlightController"
+            name: "relationHighlightController",
+	    unfadeOnHighlight: true
+        },
+	        {
+            name: "relationTransparencyController",
         },
         {
             name: "menuController",

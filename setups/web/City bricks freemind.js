@@ -87,11 +87,10 @@
             createEndpoints: false
         },
         {
-            name: "relationTransparencyController",
-        },
-
-        {
             name: "relationHighlightController"
+        },
+	{
+            name: "relationTransparencyController",
         },
         {
             name: "menuController",
