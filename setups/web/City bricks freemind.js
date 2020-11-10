@@ -79,12 +79,12 @@
         {
             name: "relationConnectorController",
             fixPositionY: false,
-            showInnerRelations: true,
+            showInnerRelations: false,
             sourceStartAtParentBorder: false,
             targetEndAtParentBorder: false,
             sourceStartAtBorder: true,
             targetEndAtBorder: true,
-            createEndpoints: true
+            createEndpoints: false
         },
         {
             name: "relationTransparencyController",
